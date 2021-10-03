@@ -1,51 +1,51 @@
 [
   {
     "path": "/",
-    "component": "/Users/leslie/Documents/code/realworld-nuxtjs/pages/layout/index.vue",
+    "component": "/Volumes/code/github_private/realworld-nuxtjs/pages/layout/index.vue",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "/Users/leslie/Documents/code/realworld-nuxtjs/pages/home/index.vue",
-        "_name": "_71dc0a36"
+        "component": "/Volumes/code/github_private/realworld-nuxtjs/pages/home/index.vue",
+        "_name": "_603d21fa"
       },
       {
         "path": "/sign_in",
         "name": "signIn",
-        "component": "/Users/leslie/Documents/code/realworld-nuxtjs/pages/register/index.vue",
-        "_name": "_57700229"
+        "component": "/Volumes/code/github_private/realworld-nuxtjs/pages/register/index.vue",
+        "_name": "_ec50d284"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "/Users/leslie/Documents/code/realworld-nuxtjs/pages/register/index.vue",
-        "_name": "_57700229"
+        "component": "/Volumes/code/github_private/realworld-nuxtjs/pages/register/index.vue",
+        "_name": "_ec50d284"
       },
       {
         "path": "/setting",
         "name": "setting",
-        "component": "/Users/leslie/Documents/code/realworld-nuxtjs/pages/setting/index.vue",
-        "_name": "_368e03e0"
+        "component": "/Volumes/code/github_private/realworld-nuxtjs/pages/setting/index.vue",
+        "_name": "_c971eeaa"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "/Users/leslie/Documents/code/realworld-nuxtjs/pages/editor/index.vue",
-        "_name": "_0e0d8f33"
+        "component": "/Volumes/code/github_private/realworld-nuxtjs/pages/editor/index.vue",
+        "_name": "_090b4508"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "/Users/leslie/Documents/code/realworld-nuxtjs/pages/article/index.vue",
-        "_name": "_7a3e2b06"
+        "component": "/Volumes/code/github_private/realworld-nuxtjs/pages/article/index.vue",
+        "_name": "_4211a05e"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "/Users/leslie/Documents/code/realworld-nuxtjs/pages/profile/index.vue",
-        "_name": "_6461e3f9"
+        "component": "/Volumes/code/github_private/realworld-nuxtjs/pages/profile/index.vue",
+        "_name": "_6dca2e78"
       }
     ],
-    "_name": "_0e8dbea0"
+    "_name": "_189252f6"
   }
 ]

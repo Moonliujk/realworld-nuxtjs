@@ -180,7 +180,7 @@ export default {
         ...tagData.data,
         page,
         limit,
-        pages: articlesData.data.articlesCount / limit,
+        pages: Math.max(1, articlesData.data.articlesCount / limit),
         tab,
         tag
       };
